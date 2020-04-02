@@ -1,0 +1,14 @@
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.deps.json
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.Bus.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.csproj.CopyComplete
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IoC.pdb
