@@ -6,3 +6,4 @@ C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\D
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
