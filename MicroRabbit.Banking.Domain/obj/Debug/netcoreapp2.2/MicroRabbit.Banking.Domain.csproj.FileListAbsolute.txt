@@ -1,0 +1,9 @@
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.deps.json
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
