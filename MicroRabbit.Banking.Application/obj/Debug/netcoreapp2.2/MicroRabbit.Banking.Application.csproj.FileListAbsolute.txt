@@ -10,3 +10,5 @@ C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Applicati
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
