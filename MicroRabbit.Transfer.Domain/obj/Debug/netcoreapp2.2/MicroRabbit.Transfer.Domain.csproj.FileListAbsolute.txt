@@ -1,0 +1,8 @@
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.deps.json
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
