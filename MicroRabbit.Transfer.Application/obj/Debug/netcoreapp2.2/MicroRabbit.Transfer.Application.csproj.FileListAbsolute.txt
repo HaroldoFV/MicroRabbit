@@ -1,9 +1,14 @@
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.deps.json
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
-C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.AssemblyInfo.cs
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csproj.CopyComplete

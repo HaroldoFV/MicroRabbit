@@ -29,3 +29,9 @@ C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\D
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CopyComplete
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb

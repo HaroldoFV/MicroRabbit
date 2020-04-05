@@ -6,4 +6,3 @@ C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\D
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.AssemblyInfo.cs
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
-C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.csprojAssemblyReference.cache

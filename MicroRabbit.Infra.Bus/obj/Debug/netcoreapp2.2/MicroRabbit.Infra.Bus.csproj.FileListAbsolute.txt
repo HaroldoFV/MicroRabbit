@@ -3,10 +3,10 @@ C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\bin\Deb
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
-C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
-C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.AssemblyInfo.cs
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csproj.CopyComplete
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
 C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+C:\projetos\backend\microservices-fila\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
